@@ -1,0 +1,8 @@
+_site
+_drafts
+vendor
+*.gem
+.bundle
+.sass-cache
+.DS_Store
+Gemfile.lock

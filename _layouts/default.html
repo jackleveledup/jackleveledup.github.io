@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+    {%- include head.html -%}
+
+    <body class="no-js">
+        {%- include site-header.html -%}
+
+        <main id="content" class="global-main inner animation_fadeIn" role="main">
+            {{ content }}
+        </main>
+
+        {%- include site-footer.html -%}
+    </body>
+</html>

@@ -1,0 +1,22 @@
+---
+layout: post
+title: The Delinquent Thrill of Cheating in Mario Odyssey
+author: Jack
+date: '2017-11-23 06:45:41'
+header: "https://res.cloudinary.com/levelplusone/image/upload/v1546808293/GlitchMarioOdyssey_jn875a.jpg"
+image: "https://res.cloudinary.com/levelplusone/image/upload/v1546808293/GlitchMarioOdyssey_jn875a.jpg"
+---
+
+I've come here today with a confession: I cheated my way to one of the 999 Power Moons in Super Mario Odyssey. Before you judge me, though, you should know that it's probably the game's most obnoxious challenge: you have to outride an accelerating jump rope for at least 100 jumps. I mean, sure, in context, it's a cute mini game. Two formally-dressed denizens of *New Donk City* are swinging a jump rope in front of their office building, in broad daylight, and you're a four-foot-tall cartoon man hopping in off the sidewalk.
+
+"One hundred Mario jumps" doesn't sound like a herculean feat or anything, but there's no argument that it's difficult. I gave it only a few attempts before deciding this wasn't a moon I cared about getting. I never once expected I would actually collect all 999 moons, and having to continuously restart this mini-game from zero was...trying, to say the least. In a year as packed with releases as 2017, moving on (even from great games!) has become almost second nature.
+
+Earlier this week, obviously glitched clips of [10,000+ jump rope runs](https://twitter.com/FourScore64/status/932803217100075008) caught fire on Twitter. Me being petty / apparently anxious to get my revenge on a mini game, I couldn't help but look into it further. So here's how the glitch works: there's a hint-offering bird named Talkatoo that appears in every world in the game. By smacking Talkatoo with your hat, his animations can be manipulated to trick the game into thinking you're talking to him when *you're actually not*. Since Mario and the camera lock in place while talking to another character, things start to get weird: you can manually lock the camera in unusual positions, freeze a few of Mario's animations, and in the right circumstances, trap him in place vertically. It's an unusual and generally harmless bug, but it's *incredibly useful* if you need to...I dunno, maybe suspend Mario in midair as a jump rope swings circles around him for a few minutes.
+
+![A New Donk City resident encourages Mario to "Jump, Man!" as he nears the jump rope.](https://res.cloudinary.com/levelplusone/image/upload/v1511418548/2017112123090700-8AEDFF741E2D23FBED39474178692DAF_ybxiw4.jpg#full)
+
+The "Talkatoo glitch" isn't something you would ever run into while casually playing the game, but it's surprisingly easy to pull off. [The tutorials](https://www.youtube.com/watch?v=YZcbDGu6Ht4) make it seem easy as far as exploits go, so I knew I had to at least give it a shot. In half an hour, I went from an ordinary player to an expert at this specific gimmick. Honestly, I think I spent less time earning most Power Moons legitimately...
+
+It's hard to describe the utter joy I felt making such a polished game distort so delicately. I'm sure fans of speedruns are familiar with the exhilaration of seeing a new trick, skip, or promising new strategy. Executing this glitch felt kind of like that, I suppose, or at least what I imagine a speedrunner feels like. It's this strange sort of enjoyment that feels almost *inverted* from normal play. For a brief moment, I seized the reins from the designers, manipulating the game's rules into an entirely different form. As the jump counter soared, I cackled at my cartoon-plumber marionette.
+
+My practice and effort earned me just one measly moon, but I still feel like I *accomplished* something. In retrospect, "cheating" is probably an unfair word. Learning the ins and outs of this glitch was its own type of challenge; much less a shortcut than an alternate solution. What amounts to a miniscule programming oversight became so oddly beautiful, in the way it salvaged a challenge I had left behind. Maybe if I had played this mini game normally, I would have been momentarily proud, or at least relieved, to have finished. Instead, I know that years from now I'll distinctly remember the night I made a plumber levitate above a jump rope.

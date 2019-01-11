@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<article class="post page {% if page.header == undefined %}no-header{% endif %}">
+    {%- if page.header -%}
+    <img class="post-header-img animation_fadeIn" src="{{ page.header }}">
+    {%- endif -%}
+
+    <header class="post-header">
+        <h1 class="post-title animation_fadeUp">{{ page.title | escape }}</h1>
+    </header>
+
+    <section class="post-content animation_fadeUp">
+        {{ content }}
+    </section>
+</article>

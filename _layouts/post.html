@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="post {% if page.header == undefined %} no-header{% endif %}">
+    {%- if page.header -%}
+    <img class="post-header-img animation_fadeIn" src="{{ page.header }}">
+    {%- endif -%}
+
+    <header class="post-header">
+        <h1 class="post-title animation_fadeUp">{{ page.title | escape }}</h1>
+        <section class="byline animation_fadeUp">
+            <time class="date" datetime="{{ page.date }}" itemprop="datePublished">
+                {% comment %}
+                if github would just upgrade to jekyll 3.8, we could just do this instead of the mess below:
+                {{ page.date | date_to_long_string: "ordinal", "US" }}
+                {% endcomment %}
+
+                {% assign d = page.date | date: "%-d"  %}
+                {{ page.date | date: "%B" }} 
+                {% case d %}
+                {% when '1' or '21' or '31' %}{{ d }}st
+                {% when '2' or '22' %}{{ d }}nd
+                {% when '3' or '23' %}{{ d }}rd
+                {% else %}{{ d }}th{% endcase %}, 
+                {{ page.date | date: "%Y" }}
+            </time>
+
+            {%- if page.author -%}
+            <span class="byline-divider"></span>
+            <span class="author">By {{ page.author | escape }}</span>
+            {%- endif -%}
+
+            {%- comment -%}
+            <span class="time-to-read">
+                <span class="byline-divider"></span>
+                <span class="read-time"></span>. Read
+            </span>
+            {%- endcomment -%}
+        </section>
+    </header>
+
+    <section class="post-content animation_fadeUp">
+        {{ content }}
+    </section>
+</article>

@@ -1,0 +1,24 @@
+title: "Level+1"
+author: JackLeveledUp
+email: JackLeveledUp@gmail.com
+url: "https://levelplusone.com"
+description: >
+  Level+1 is a blog about games, anime, and the culture and politics around them.
+  The games we play and the shows we watch are more than ways of passing time - they're
+  strides along an endless road of opportunities to grow: as critics, as creators, and as people.
+
+# navigation
+navigation:
+  - about.md
+
+# social
+twitter: "JackLeveledUp"
+twitch: "JackLeveledUp"
+rss: true
+# youtube_username: jekyll
+# youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+# youtube_channel_name: CloudCannon
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
