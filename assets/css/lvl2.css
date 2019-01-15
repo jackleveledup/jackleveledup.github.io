@@ -60,6 +60,10 @@ body {
     margin-top: 2rem;
 }
 
+.page {
+    margin-bottom: 2rem;
+}
+
 a, a:focus, a:hover, a:visited {
     text-decoration: none;
 }

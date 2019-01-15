@@ -1,0 +1,53 @@
+<aside class="further-reading">
+    <h2 class="further-reading-heading">More to Read</h2>
+
+    {%- if page.next.url -%}
+    <article class="post-preview{% if page.next.header == undefined %} no-image{% endif %}" {% if page.next.header %}style="background-image: url({{ page.next.header }});"{% endif %}>
+        <a class="post-preview-content inner" href="{{ page.next.url | relative_url }}">
+            <h2 class="post-preview-title">{{ page.next.title | escape }}</h2>
+            <div class="byline">
+                <time class="date" datetime="{{ page.next.date }}" itemprop="datePublished">
+                    {% comment %}
+                    if github would just upgrade to jekyll 3.8, we could just do this instead of the mess below:
+                    {{ page.next.date | date_to_long_string: "ordinal", "US" }}
+                    {% endcomment %}
+
+                    {% assign d = page.next.date | date: "%-d"  %}
+                    {{ page.next.date | date: "%B" }} 
+                    {% case d %}
+                    {% when '1' or '21' or '31' %}{{ d }}st
+                    {% when '2' or '22' %}{{ d }}nd
+                    {% when '3' or '23' %}{{ d }}rd
+                    {% else %}{{ d }}th{% endcase %}, 
+                    {{ page.next.date | date: "%Y" }}
+                </time>
+            </div>
+        </a>
+    </article>
+    {%- endif -%}
+
+    {%- if page.previous.url -%}
+    <article class="post-preview{% if page.previous.header == undefined %} no-image{% endif %}" {% if page.previous.header %}style="background-image: url({{ page.previous.header }});"{% endif %}>
+        <a class="post-preview-content inner" href="{{ page.previous.url | relative_url }}">
+            <h2 class="post-preview-title">{{ page.previous.title | escape }}</h2>
+            <div class="byline">
+                <time class="date" datetime="{{ page.previous.date }}" itemprop="datePublished">
+                    {% comment %}
+                    if github would just upgrade to jekyll 3.8, we could just do this instead of the mess below:
+                    {{ page.previous.date | date_to_long_string: "ordinal", "US" }}
+                    {% endcomment %}
+
+                    {% assign d = page.previous.date | date: "%-d"  %}
+                    {{ page.previous.date | date: "%B" }} 
+                    {% case d %}
+                    {% when '1' or '21' or '31' %}{{ d }}st
+                    {% when '2' or '22' %}{{ d }}nd
+                    {% when '3' or '23' %}{{ d }}rd
+                    {% else %}{{ d }}th{% endcase %}, 
+                    {{ page.previous.date | date: "%Y" }}
+                </time>
+            </div>
+        </a>
+    </article>
+    {%- endif -%}
+</aside>
