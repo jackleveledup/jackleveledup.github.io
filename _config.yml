@@ -11,6 +11,8 @@ description: >
 navigation:
   - about.md
 
+paginate: 6
+
 # social
 twitter: "JackLeveledUp"
 twitch: "JackLeveledUp"
@@ -22,3 +24,4 @@ rss: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
