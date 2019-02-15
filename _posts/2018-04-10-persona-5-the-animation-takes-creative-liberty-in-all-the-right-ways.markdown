@@ -6,7 +6,7 @@ author: Jack
 header: "https://res.cloudinary.com/levelplusone/image/upload/v1546808293/p5-animation-clipped_hezdrz.jpg"
 image: "https://res.cloudinary.com/levelplusone/image/upload/v1546808293/p5-animation-clipped_hezdrz.jpg"
 tags:
-- anime
+- Anime
 ---
 
 As an adaptation of a 100+ hour game, *Persona 5: The Animation* has started  down a long, arduous path. From the pilot alone, though, it seems to be one that director Masashi Ishihama (of the excellent *From the New World*) and A-1 Studios are prepared for. For one, the character art and expressions are well-drawn: surprisingly detailed, and highly consistent from shot-to-shot. The scene compositions and color palette perfectly match the game's vivid aesthetic, and the animation is powerful, fast, and fluid. The most impressive part of this pilot, though, and the reason it's worth watching for fans and newcomers alike, are its dashes of fresh thematic flavor.

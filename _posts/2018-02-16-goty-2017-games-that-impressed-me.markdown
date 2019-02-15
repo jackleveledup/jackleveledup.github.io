@@ -4,8 +4,8 @@ title: 'Game of the Year 2017: Games that Impressed Me'
 author: Jack
 date: '2018-02-16 05:38:44'
 tags:
-- game-of-the-year
-- goty2017
+- "Game of the Year"
+- GOTY2017
 ---
 
 It's an unusual problem, for me, at least, to have so much to say about so many games that I actually have to devise ways to contain my praise. 2017 was an incredible year for games, with such a wildly packed calendar of releases that I'll be surprised if its ever topped. I've been proven wrong before, though!

@@ -4,7 +4,8 @@ title: 'Game of the Year 2017: Jack''s Top 3'
 date: '2018-03-16 05:19:48'
 author: Jack
 tags:
-- game-of-the-year
+- "Game of the Year"
+- GOTY2017
 ---
 
 We've been saying it over and over, but that doesn't make it any less true: 2017 was an exceptional year for video games. Most notably, it was a time of renaissance for Japanese developers, where even the most established of series took bold, genre-shifting leaps forward. I've been making game of the year lists since 2013, but this year marks the first time that I've thrown one together while still actively playing *every game on it*. It's even more impressive when you think about how long it's taken me to write this! But I digress - out of all of the games I played last year, here are the three that I liked best:

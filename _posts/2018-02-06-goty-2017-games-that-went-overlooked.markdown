@@ -4,8 +4,8 @@ title: 'Game of the Year 2017: Games That Went Overlooked'
 author: Jack
 date: '2018-02-06 03:50:21'
 tags:
-- game-of-the-year
-- goty2017
+- "Game of the Year"
+- GOTY2017
 ---
 
 Our backlogs have never been bigger than the monstrous sizes they swelled to in the past year. Even if I would've restricted myself to the games I'm predisposed to like (I'm curious, so no, I didn't), it *still* would have been impossible to keep up with the sheer onslaught of games. It's inevitable that we all missed something, or more likely, a lot of "somethings." In honor of all that games accomplished in 2017, I'd like to recognize a few of my favorites that deserved a little more time in the spotlight.
