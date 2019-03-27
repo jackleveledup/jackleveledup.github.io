@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: layout
@@ -20,5 +19,3 @@ fields:
 - type: tag_list
   name: tags
   label: Tags
-pages:
-- _posts/game-of-the-year-2018-jack-s-top-3.md
