@@ -10,7 +10,7 @@ tags:
 
 One year ago, it seemed impossible that the games of 2018 would live up to those of 2017. We were fresh off of an apparent renaissance of the entire Japanese AAA scene, from the innovations of Breath of the Wild, Super Mario Odyssey, and Nier: Automata, to the unprecedented polish of Persona 5 and Gravity Rush 2. It was naive of me to hold 2018 to those same standards. While I waited for another genre-defining experience to sweep me off my feet, the year pressed on and a pile of exceptional games began to build around me. If the bar had raised in 2017, then in 2018, creators around the world rose to meet it. Most of all, new indie creators burst onto the scene with refinements across games of all varieties.
 
-As I'm writing this, it's already February, so clearly it's not practical for me to write about every game I enjoyed in 2018. That doesn't mean I didn't try, though...! What follows is a list of what I enjoyed most: "The Very Good Games." And coming later this week, we'll make this extra official and follow up with what's left: my top three favorite games of 2018. I wasn't quite able to finish *everything* I wanted to in time, but with a list as long as this? I can't say that I have regrets!
+As I'm writing this, it's already February, so clearly it's not practical for me to write about every game I enjoyed in 2018. That doesn't mean I didn't try, though...! What follows is a list of what I enjoyed most: "The Very Good Games." And if you're hungry for more, definitely check out my top three favorite games of 2018. I wasn't quite able to finish *everything* I wanted to in time, but with a list as long as this? I can't say that I have regrets!
 
 
 ## Zero Ranger
